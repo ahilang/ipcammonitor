@@ -1,3 +1,5 @@
+//comments added
+//another comment added
 import bb.cascades 1.2
     
 Page {
